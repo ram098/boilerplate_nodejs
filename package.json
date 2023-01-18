@@ -1,0 +1,26 @@
+{
+  "name": "boilerplate_nodejs",
+  "version": "1.0.0",
+  "description": "Basic Example of Boilerplate",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ram098/boilerplate_nodejs.git"
+  },
+  "keywords": [
+    "Basic",
+    "Nodejs"
+  ],
+  "author": "Ramesh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ram098/boilerplate_nodejs/issues"
+  },
+  "homepage": "https://github.com/ram098/boilerplate_nodejs#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
